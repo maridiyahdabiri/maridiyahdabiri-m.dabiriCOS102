@@ -1,0 +1,59 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "d0ce764a-d6c7-42c4-95d7-12dfb872aafd",
+   "metadata": {
+    "scrolled": true
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Welcome to CSC 102 Introduction to Problem solving\n"
+     ]
+    }
+   ],
+   "source": [
+    "message = \"Welcome to\"\n",
+    "course_code = \"CSC 102\"\n",
+    "course_title = \"Introduction to Problem solving\"\n",
+    "\n",
+    "concat = message +' '+ course_code+' '+course_title\n",
+    "\n",
+    "print(concat)\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "7532d6b3-60c5-47db-8a69-d0e1c6a0895f",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.13.9"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
